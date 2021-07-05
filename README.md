@@ -1,6 +1,7 @@
 ### Hi there, I'm [Sraya_Goldfisher][website] 👋
 
-## I'm An experienced mechanical-robotics engineer with demonstrated expertise in R&D of delicate robotics and vehicles
+## I'm An experienced mechanical-robotics engineer 
+## with demonstrated expertise in R&D of delicate robotics and vehicles
 
 - 🔭 I’m currently working at [ZUtA_Labs][company]
 - 💬 I really enjoy from robotics R&D projects 
