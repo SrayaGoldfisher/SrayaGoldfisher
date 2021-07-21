@@ -3,7 +3,7 @@
 ## I'm An experienced mechanical-robotics engineer 
 ## with demonstrated expertise in R&D of delicate robotics and vehicles
 
-- 🔭 I’m currently working at [ZUtA_Labs][company]
+- 🔭 I’m currently Leader of the mechanics and robotics field at [ZUtA_Labs][company]
 - 💬 I really enjoy from robotics R&D projects 
       and if you're working on interesting Robotics projects 
       and looking for help\guidance, I'm always happy to talk!
