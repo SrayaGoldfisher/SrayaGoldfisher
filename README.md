@@ -1,20 +1,9 @@
 ### Hi there, I'm [Sraya_Goldfisher][website] 👋
 
 ## I'm An experienced mechanical-robotics engineer 
-## with demonstrated expertise in R&D of delicate robotics and vehicles
+## with demonstrated expertise in R&D of delicate robotics, vehicles, and drones.
 
-- 🔭 I’m currently Leader of the mechanics and robotics field at [ZUtA_Labs][company]
-- 💬 I really enjoy from robotics R&D projects 
-      and if you're working on interesting Robotics projects 
-      and looking for help\guidance, I'm always happy to talk!
-- 🌱 As a childhood robotics enthusiast with a great passion for the field, 
-      it was like going to Disneyland when I began my studies for a Robotics Engineer's degree. 
-      It was such an incredible experience to experiment and learn so many areas - 
-      such as mechanical and robotic design, drawings and analyzes in SolidWorks, 
-      MATLAB and Gazebo simulations, electrical circuit design, 
-      and code programming for control and navigation.
-- 👯 Getting to work on the different robotics projects has really been a dream come true, 
-      and I can't wait for what the future holds.
+I’m currently Technical Manager at [Flying Prodution][company]
 
 ### Connect with me:
 
@@ -24,6 +13,6 @@
 </details>
 
 [website]: http://www.linkedin.com/in/Sraya-Goldfisher
-[company]: https://www.zutalabs.com/
+[company]: https://www.flying-production.com/
 [youtube]: https://www.youtube.com/channel/UCm1MNLkXrmuwaoFIFxE9zVA
 [linkedin]: http://www.linkedin.com/in/Sraya-Goldfisher
