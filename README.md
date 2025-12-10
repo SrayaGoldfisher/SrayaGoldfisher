@@ -1,18 +1,19 @@
-### Hi there, I'm [Sraya_Goldfisher][website] 👋
+# Hi, I'm Sraya 👋
 
-## I'm An experienced mechanical-robotics engineer 
-## with demonstrated expertise in R&D of delicate robotics, vehicles, and drones.
+**Mechanical Engineer | Robotics & UAV Systems | Control & Dynamics | Full‑Stack Problem Solver**
 
-I’m currently Technical Manager at [Flying Prodution][company]
+Welcome to my GitHub! I'm a mechanical engineer with hands‑on experience leading full-cycle development of robotic systems and UAV platforms — from concept, modeling, and control loops, to prototyping, testing, and production.
 
-### Connect with me:
+I combine mechanical design, system engineering, and software tooling to build reliable, field‑ready systems. My work often sits at the intersection of **mechanics, control, autonomy, and real-time embedded systems**.
 
-[<img align="left" alt="SrayaGoldfisher | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SrayaGoldfisher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-</details>
+## 🚀 About Me
 
-[website]: http://www.linkedin.com/in/Sraya-Goldfisher
-[company]: https://www.flying-production.com/
-[youtube]: https://www.youtube.com/channel/UCm1MNLkXrmuwaoFIFxE9zVA
-[linkedin]: http://www.linkedin.com/in/Sraya-Goldfisher
+* ✈️ Experience **UAV and UGV**, integrating radios, antennas, video links, and networked components.
+* 🤖 Interested in **autonomous vehicles, robotics, missile guidance concepts, and flight control systems**.
+* 🔧 Strong with multidisciplinary interfaces — electronics, software, RF, networking, production.
+
+---
+
+If you find something useful here — feel free to star ⭐ the repo!
