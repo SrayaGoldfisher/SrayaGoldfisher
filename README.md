@@ -24,7 +24,7 @@ I combine mechanical design, system engineering, and software tooling to build r
 
 ## ⚡ Beyond the Code
 
-* Honing my FPV Acro flying skills.
+* Honing my FPV flying skills.
 * Exploring the art of the perfect cold brew coffee.
 * Enjoying Studio Ghibli aesthetics.
 
